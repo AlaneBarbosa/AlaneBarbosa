@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlaneBarbosa
 - 👀 I’m interested in coding, music, games, and people.
 - 🌱 I’m currently learning code languages such as Python.
-- 📫 Reach me on Discord (@thedeveloper__) or here!
+- 📫 Reach me on Discord (@thereallalan), or here!
 - 📌 Learning to code and many other stuff with @gustavoguanabara (Curso em Vídeo on YouTube) and studying at Westminster Adult Education Service (WAES).
 
 <!---
